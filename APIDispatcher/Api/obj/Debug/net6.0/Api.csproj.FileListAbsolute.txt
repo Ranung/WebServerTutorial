@@ -1,0 +1,12 @@
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\bin\Debug\net6.0\Api.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\obj\Debug\net6.0\Api.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Api\obj\Debug\net6.0\ref\Api.dll
