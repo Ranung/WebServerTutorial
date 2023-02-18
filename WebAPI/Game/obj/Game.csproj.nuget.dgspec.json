@@ -217,7 +217,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\loadcomplete\\RiderProjects\\WeaServerTutorial\\WebAPI\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\loadcomplete\\RiderProjects\\WeaServerTutorial\\WebAPI\\Shared\\Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

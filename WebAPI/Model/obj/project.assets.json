@@ -375,6 +375,16 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
+        }
       }
     }
   },
@@ -951,13 +961,19 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.3",
-      "Microsoft.EntityFrameworkCore.Relational >= 7.0.3"
+      "Microsoft.EntityFrameworkCore.Relational >= 7.0.3",
+      "Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -984,7 +1000,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\loadcomplete\\RiderProjects\\WeaServerTutorial\\WebAPI\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\loadcomplete\\RiderProjects\\WeaServerTutorial\\WebAPI\\Shared\\Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
