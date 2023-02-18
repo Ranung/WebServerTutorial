@@ -35,7 +35,7 @@ public class SetPlayerScore : IApiService
             await _gameContext.AddAsync(playerModel);
         }
 
-        playerModel.Score += score;
+        playerModel.Score = score;
         await _gameContext.SaveChangesAsync();
 
         return new JObject { [ProtocolKey.Score] = score };
