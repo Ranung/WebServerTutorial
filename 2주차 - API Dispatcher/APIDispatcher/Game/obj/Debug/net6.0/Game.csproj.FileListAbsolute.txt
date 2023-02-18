@@ -1,0 +1,74 @@
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\appsettings.json
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Game.exe
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Game.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Api.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\bin\Debug\net6.0\Api.pdb
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\scopedcss\bundle\Game.styles.css
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.csproj.CopyComplete
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\refint\Game.dll
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+C:\Users\alien\Documents\WebServerTutorial\APIDispatcher\Game\obj\Debug\net6.0\ref\Game.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\appsettings.json
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Game.exe
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Game.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Api.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\bin\Debug\net6.0\Api.pdb
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\scopedcss\bundle\Game.styles.css
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.csproj.CopyComplete
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\refint\Game.dll
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+C:\Users\loadcomplete\RiderProjects\WeaServerTutorial\2주차 - API Dispatcher\APIDispatcher\Game\obj\Debug\net6.0\ref\Game.dll
